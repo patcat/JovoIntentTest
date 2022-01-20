@@ -1,0 +1,12 @@
+{
+  "invocation": "my sample app",
+  "version": "4.0",
+  "intents": {
+    "TestIntent": {
+      "phrases": [
+        "test",
+        "testing"
+      ]
+    }
+  }
+}
